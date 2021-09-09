@@ -1,0 +1,2 @@
+# pensamentoMatematico
+repositorio de matematica
